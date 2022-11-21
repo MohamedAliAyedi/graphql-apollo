@@ -1,8 +1,8 @@
 {
-  "name": "catstronauts-client",
+  "name": "front-end-apollo-client",
   "version": "1.0.0",
   "private": true,
-  "description": "front-end demo app for Apollo's lift-off course",
+  "description": "front-end-apollo",
   "dependencies": {
     "@apollo/client": "^3.5.5",
     "@apollo/space-kit": "^9.3.1",

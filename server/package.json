@@ -1,5 +1,5 @@
 {
-  "name": "catstronauts-server-complete",
+  "name": "front-end-apollo-server",
   "version": "1.0.0",
   "description": "back-end-Apollo",
   "main": "src/index.js",
